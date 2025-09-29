@@ -34,7 +34,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mahmoud-77267632b/)
-[![Facebook](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.mahmoud.812404/)
+[![Facebook](https://img.shields.io/badge/facebook-26A5E4?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.mahmoud.812404/)
 
 </div>
 ⭐️ From [Mohamed-Mahmoud](https://github.com/MohamedHatori)
