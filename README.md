@@ -6,8 +6,17 @@
 🚀 Always curious to explore new technologies and improve my problem-solving skills.
 
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="100" alt="Coding GIF"/>
+## 🚀 About Me
 
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+
+I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
+I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+
+
+
+
+<br clear="right"/>
 
 ---
 
