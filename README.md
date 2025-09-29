@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 Connect with me  
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mohamed-mahmoud-77267632b/))  
-- [FaceBook]([https://codeforces.com/](https://www.facebook.com/mohamed.mahmoud.812404/))
+- [LinkedIn](https://www.linkedin.com/in/mohamed-mahmoud-77267632b/)  
+- [Facebook](https://www.facebook.com/mohamed.mahmoud.812404/)  
 ---
 ⭐️ From [Mohamed-Mahmoud](https://github.com/MohamedHatori)
