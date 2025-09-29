@@ -6,10 +6,6 @@
 🚀 Always curious to explore new technologies and improve my problem-solving skills.  
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 
 ---
 
