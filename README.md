@@ -10,10 +10,6 @@
 
 🎓 I'm a Computer Science student at Benha National University.  
 💻 Passionate about Competitive Programming, Web Development, and Computer Science fundamentals.  
-
-
-
-
 <br clear="right"/>
 
 ---
