@@ -29,13 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedHatori&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHatori&layout=compact&theme=tokyonight)  
-
----
 
 ## 🔗 Connect with Me
 
