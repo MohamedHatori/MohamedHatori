@@ -102,7 +102,7 @@ I enjoy solving programming problems and improving my problem-solving skills thr
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-mahmoud-77267632b/">
+  <a href="https://www.linkedin.com/in/mohamed-mahmoud-552906422/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/mohamed.mahmoud.812404/">
